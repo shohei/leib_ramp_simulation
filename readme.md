@@ -3,3 +3,4 @@ Input following in MATLAB console
 ```
 >> leib_ramp_test 
 ```
+![result](image.png)
